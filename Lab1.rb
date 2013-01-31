@@ -1,8 +1,8 @@
 # 1. Print the numbers from 1 to 10 to the console without writing a for loop or a while loop. Put each number on its own line.
-# I'll get  you started! 
+# I'll get  you started! hello World
 
 my_num = 1
-
+num = 2
 
 # 2. Get input from the console and save it to a variable. Prompt the user to enter a string such as their name or school. 
 #  	Print to the console the string in caps and reversed, then print out the length of the string. 
